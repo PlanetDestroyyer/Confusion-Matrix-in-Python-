@@ -1,0 +1,1 @@
+A confusion matrix is a table that shows the performance of a classification model. It is used to evaluate the accuracy of a model by comparing its predictions to the actual values. The rows of the matrix represent the actual values, and the columns represent the predicted values.
